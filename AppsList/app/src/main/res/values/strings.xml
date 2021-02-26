@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <!-- Login Fragment -->
+    <string name="email_edit_text_hint">Email</string>
+    <string name="password_edit_text_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="create_account_button">Create New Account</string>
+    <!-- Register Fragment -->
+    <string name="name_edit_text_hint">Name</string>
+    <string name="submit_button">Submit</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="logout_button">Log Out</string>
+
+    <!-- App Details Fragment -->
+    <string name="text_view_genres">Genres</string>
+</resources>
