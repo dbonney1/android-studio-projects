@@ -10,5 +10,4 @@
   * Software Info. Systems
   * Bio Informatics
   * Data Science
-  * 
 * Profile page containing user name, email, ID and department
