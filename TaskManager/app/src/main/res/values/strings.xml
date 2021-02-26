@@ -1,0 +1,22 @@
+<resources>
+    <!-- To-Do List Main Activity -->
+    <string name="app_name">HW02</string>
+    <string name="upcoming_tasks_text_view">Upcoming Tasks</string>
+    <string name="task_text_view_none">None</string>
+    <string name="view_tasks_button">View Tasks</string>
+    <string name="create_task_button">Create a Task</string>
+    <!-- Display Task Activity -->
+    <string name="task_information_label">Task Information</string>
+    <string name="task_name_label">Name:</string>
+    <string name="task_date_label">Date:</string>
+    <string name="task_priority_label">Priority:</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="delete_button">Delete</string>
+    <!-- Create Task Activity -->
+    <string name="task_name_edit_text_hint">Task Name</string>
+    <string name="set_date_button">Set date</string>
+    <string name="submit_button">Submit</string>
+    <string name="low_priority_radio_button">Low</string>
+    <string name="medium_priority_radio_button">Medium</string>
+    <string name="high_priority_radio_button">High</string>
+</resources>
